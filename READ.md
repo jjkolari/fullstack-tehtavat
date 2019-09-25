@@ -5,4 +5,4 @@
 
 ###Osa 0
 
-jjkolari/fullstack-tehtavat/issues/1#
+jjkolari/fullstack-tehtavat#1
