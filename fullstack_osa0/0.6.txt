@@ -1,0 +1,18 @@
+note over selain:
+selain alkaa suorittaa js-koodia
+joka pyytää JSON-datan palvelimelta
+ja lähettää samalla Content-type headerin,
+palvelin osaa muokkaa headerin avulla
+JSON-datan haluamaan muotoon ja 
+lähettää datan JSON-merkkijonona
+end note
+
+selain->palvelin: HTTP GET 
+https://fullstack-exampleapp.herokuapp.com/new_note_spa
+palvelin-->selain: {content: "Hello", date: "2019-09-24T08:42:17.374Z}
+
+note over selain:
+selain suorittaa tapahtumankäsittelijän
+joka renderöi uuden muistiinpanon näytölle
+end note
+
