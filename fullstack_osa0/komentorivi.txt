@@ -1,2 +1,0 @@
-Folder PATH listing for volume Windows Volume serial number is 006A-E8EB 
-C:. ||||||||||||||fullstack_osa0
