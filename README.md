@@ -1,6 +1,6 @@
 # Fullstack <h1>
   
-## Osa 1
+## Osa 2
 
 [kurssitiedot](https://github.com/jjkolari/fullstack-tehtavat/tree/master/fullstack_osa2/kurssitiedot)
 
